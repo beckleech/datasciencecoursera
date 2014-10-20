@@ -1,4 +1,4 @@
-datasciencecoursera
+## datasciencecoursera
 ===================
 
-Crreated repository for assignment - Data Scientist's Toolbox
+*Created repository for assignment - Data Scientist's Toolbox
